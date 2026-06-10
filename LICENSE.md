@@ -1,4 +1,4 @@
-# 
+# 智能 Cat vs Dog Classifier with PyTorch and Streamlit 扩展。集成 可解释AI 和 迁移学习，性能最大化。
 
 
 
